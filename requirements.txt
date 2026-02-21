@@ -1,0 +1,26 @@
+# Requirements for DIETERSDC/dieter-sdc
+
+# Web Scraping
+beautifulsoup4==4.10.0
+requests==2.26.0
+Scrapy==2.5.1
+
+# FastAPI
+fastapi==0.68.1
+uvicorn==0.15.0
+
+# LLM Integration
+openai==0.1.0
+
+# Security Testing
+bandit==1.7.0
+
+# Malware Detection
+virustotal-python==0.3.0
+
+# Database ORM
+sqlalchemy==1.4.27
+
+# Testing Frameworks
+pytest==6.2.5
+pytest-cov==2.12.1
